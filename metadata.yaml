@@ -1,0 +1,28 @@
+_repo: Culture-and-CookingArt-in-the-Kitchen_29982
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 29982-h/images/cover2.jpg
+creator:
+  author:
+    agent_name: Owen, Catherine
+    alias: Nitsch, Helen Alice Matthews
+    deathdate: 1889
+    gutenberg_agent_id: '31905'
+    url: http://www.gutenberg.org/2009/agents/31905
+description: ''
+gutenberg_bookshelf: Cookery
+gutenberg_issued: '2009-09-14'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '29982'
+  lccn: 08024213
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'TX'
+- !lcsh 'Cooking, American'
+title: Culture and Cooking; Or, Art in the Kitchen
+url: http://www.gutenberg.org/ebooks/29982
